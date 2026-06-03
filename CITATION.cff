@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate your own today!
+
+cff-version: 1.2.0
+title: Interpretable Classification of Time series using Euler Characteristic Surfaces
+message: >-
+  If you use this software, please cite it using the metadata from
+  this file.
+type: software
+authors:
+  - family-names: Sharma
+    given-names: Buddha Nath
+    orcid: 'https://orcid.org/0009-0005-5479-2084'
+repository-code: >-
+  https://github.com/Buddha09/Interpretable-Classification-of-Time-series-using-Euler-Characteristic-Surfaces
+url: >-
+  https://github.com/Buddha09/Interpretable-Classification-of-Time-series-using-Euler-Characteristic-Surfaces
+abstract: >-
+  This repository contains the complete pipeline for interpretable
+  classification of time series using Euler Characteristic Surfaces.
+keywords:
+  - time-series-analysis
+  - topological-data-analysis
+  - Euler-characteristic
+license: MIT
+commit: 41f9e13
+version: 1.0.0
+date-released: '2026-06-08'
